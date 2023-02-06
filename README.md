@@ -1,4 +1,4 @@
-# todoapp
+# todoapp home
 
 ## Project setup
 ```
